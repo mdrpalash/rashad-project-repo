@@ -13,4 +13,4 @@
 
 4. Fork in GitHub:
 
-    Ans: A fork is a personal copy of a repository. It's used to make changes in an independent copy, especially for contributing to open-source projects.
+    Ans: A fork is a personal copy of a repository. Copies the repository to your remote account.
