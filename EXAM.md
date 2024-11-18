@@ -9,7 +9,7 @@
 3. Remote repository in Git:
 
     Ans: A remote repository is a version of your project hosted online. You add it using:
-         git remote add yourname repository URL
+         git remote add yourname [repository] [URL]
 
 4. Fork in GitHub:
 
